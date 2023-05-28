@@ -1,11 +1,14 @@
 - This is @OND10
-- I’m interested in ...web development using ASP.net core 
-- I’m currently learning ... python,dart,C#
-- How to reach me ... [e-mail](osamadammag84@gmail.com)
-- I am a fresh learner on C++ programming language however I got faced many problems and now I am learning GUI on C++.
-- It is easy to say that thing is hard but hard to do it...nver give up homie
-- Think smart...work hard
-- Go for it now...future wont be promised
+- I am an ambitious student learning new frameworks related to App development such as .Net maui && Flutter.
+- I’m interested in ... Back-end development using ASP.net MVC.  
+- I’m currently learning ... Python,Dart,C#.
+- How to reach me ... [e-mail](osamadammag84@gmail.com) || (osamanashwan84@gmail.com).
+- Linkedin: https://www.linkedin.com/in/osama-dammag-b40739221/
+- I am a fresh learner on C++ programming language however I got faced many problems within it as well as learning OOP concepts.
+- It is easy to say for some thing that it is hard however hard to do it... nver give up my homie.
+- Think smart...work hard.
+- Go for it now...future won't be promised.
+- 
 <!---
 
 OND10/OND10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
