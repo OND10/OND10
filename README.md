@@ -7,7 +7,8 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://github.com/OND10/OND10/blob/main/ond.jpg?&style=for-the-badge&logo=gmail&logoColor=white" href="osamadammag84@gmail.com"><a  href="https://www.instagram.com/osamadammaj?igsh=MTkybGM0MDlsMGoycg=="><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/osama-dammag-%F0%9F%87%B5%F0%9F%87%B8-b40739221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/Email-osama.n.dammag@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.instagram.com/osamadammaj?igsh=MTkybGM0MDlsMGoycg=="><img src="https://img.shields.io/badge/Osama Dammag.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/osama-dammag-%F0%9F%87%B5%F0%9F%87%B8-b40739221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/Osama Dammag.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ### Here are some ideas to help you get started:
 
@@ -29,4 +30,4 @@
 
 
 
-⭐️ From [sharannyobasu](https://github.com/sharannyobasu)
+⭐️ From [Osama](https://github.com/OND10)
