@@ -1,5 +1,5 @@
-![Name](https://github.com/OND10/OND10/blob/main/ond.jpg)
-
+### This is 
+ <p style="text-align:center;font-size:30px">Osama Dammag</p>
 
  ### Profile Views :<br>
  <img src="https://profile-counter.glitch.me/osama-dammag/count.svg" alt="Profile Counter">
