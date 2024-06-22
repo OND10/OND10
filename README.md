@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="styles.css" />
     <style>
       @import url("https://fonts.googleapis.com/css?family=DM+Sans:400,500|Jost:400,500,600&display=swap");
-* {
+ *{
   box-sizing: border-box;
-}
+ }
 
 body {
   color: #2b2c48;
