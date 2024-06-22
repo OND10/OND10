@@ -2,13 +2,15 @@
 
 
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+ <img src="https://profile-counter.glitch.me/osama-dammag/count.svg" alt="Profile Counter">
 
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
 <img src="https://img.shields.io/badge/Email-osama.n.dammag@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="https://www.instagram.com/osamadammaj?igsh=MTkybGM0MDlsMGoycg=="><img src="https://img.shields.io/badge/Osama Dammag.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/osama-dammag-%F0%9F%87%B5%F0%9F%87%B8-b40739221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/Osama Dammag.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.instagram.com/osamadammaj?igsh=MTkybGM0MDlsMGoycg=="><img src="https://img.shields.io/badge/Instagram-osamadammaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a><a href="https://www.linkedin.com/in/osama-dammag-%F0%9F%87%B5%F0%9F%87%B8-b40739221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Osama%20Dammag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ### Here are some ideas to help you get started:
 
