@@ -20,16 +20,13 @@
 - 🌱 I’m currently learning **.Net Framework**
 - 🔍 I’m looking to collaborate on **Back-End Web Dev Projects**
 - 💬 Ask me about **Data Structures in C++**
-- ⚡ Fun fact: I can talk 24/7 about football.
+- ⚡ Fun fact: I can talk 24/7 about football ⚽.
 
 ### Tools I work upon 🛠:
 
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -64,9 +61,6 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
@@ -81,9 +75,6 @@
     </a>
     <a href="https://www.php.net/download-logos.php" target="_blank" rel="noreferrer">
         <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://en.m.wikipedia.org/wiki/File:Laravel.svg" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/File:GraphQL_Logo.svg" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" height="40"/>
