@@ -17,8 +17,9 @@
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on **Full-Stack Web Development** and **Open Source Contributions**
-- 🌱 I’m currently learning **.Net Framework**
+- 🌱 I’m continuously learning and improving my skills in design patterns, RESTful services, and secure authentication using .Net Framework.
 - 🔍 I’m looking to collaborate on **Back-End Web Dev Projects**
+- 👯 I’m looking to collaborate on challenging projects that push the boundaries of web development.
 - 💬 Ask me about **Data Structures in C++**
 - ⚡ Fun fact: I can talk 24/7 about football ⚽.
 
