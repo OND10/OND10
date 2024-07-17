@@ -1,5 +1,5 @@
 # Hi there, I'm Osama Dammag 👋
-
+✨ Welcome to my GitHub profile! ✨
 ### Profile Views:
 <img src="https://profile-counter.glitch.me/osama-dammag/count.svg" alt="Profile Counter">
 
