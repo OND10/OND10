@@ -85,4 +85,6 @@
     </a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OND10)](https://github.com/anuraghazra/github-readme-stats)
+
 ⭐️ From [Osama](https://github.com/OND10)
