@@ -1,7 +1,7 @@
 # Hi there, I'm Osama Dammag 👋
 ✨ Welcome to my GitHub profile! ✨
 ### Profile Views:
-<img src="https://profile-counter.glitch.me/osama-dammag/count.svg" alt="Profile Counter">
+![](https://komarev.com/ghpvc/?username=OND10)
 
 ### How to reach me: **(Click the badge to view my profiles!)**
 <a href="mailto:osama.n.dammag@gmail.com">
