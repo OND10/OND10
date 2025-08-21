@@ -71,14 +71,8 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
     </a>
-    <a href="https://www.adobe.com/products/xd.html" rel="nofollow">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" style="max-width: 100%;">
-    </a>
     <a href="https://www.figma.com/" rel="nofollow">
         <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.php.net/download-logos.php" target="_blank" rel="noreferrer">
-        <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/File:GraphQL_Logo.svg" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" height="40"/>
@@ -88,4 +82,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OND10&show_icons=true)
 
-⭐️ From [Osama](https://github.com/OND10)
+
