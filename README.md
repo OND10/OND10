@@ -1,5 +1,5 @@
 # Hi there, I'm Osama Dammag 👋
-✨ Welcome to my GitHub profile! ✨
+<h3>✨ Welcome to my GitHub profile! ✨</h3>
 ### Profile Views:
 ![](https://komarev.com/ghpvc/?username=OND10)
 
@@ -70,9 +70,6 @@
     </a>
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" rel="nofollow">
-        <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://en.wikipedia.org/wiki/File:GraphQL_Logo.svg" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" height="40"/>
