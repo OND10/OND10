@@ -1,6 +1,7 @@
 # Hi there, I'm Osama Dammag 👋
 <h3>✨ Welcome to my GitHub profile! ✨</h3>
 ### Profile Views:
+
 ![](https://komarev.com/ghpvc/?username=OND10)
 
 ### How to reach me: **(Click the badge to view my profiles!)**
