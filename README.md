@@ -82,3 +82,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OND10&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OND10&layout=compact&theme=redical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OND10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
